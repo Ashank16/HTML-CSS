@@ -1,0 +1,2 @@
+load CSS in html : link - <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+Now to use icons add a span tag and it's class name as "fa fa-icon-name".  eg. - class = "fa fa-twitter".
